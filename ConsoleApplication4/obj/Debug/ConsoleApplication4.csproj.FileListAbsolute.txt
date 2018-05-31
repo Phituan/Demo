@@ -1,0 +1,5 @@
+C:\Users\Windows 10 TIMT\RiderProjects\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.csprojResolveAssemblyReference.cache
+C:\Users\Windows 10 TIMT\RiderProjects\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
+C:\Users\Windows 10 TIMT\RiderProjects\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
+C:\Users\Windows 10 TIMT\RiderProjects\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
+C:\Users\Windows 10 TIMT\RiderProjects\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb
